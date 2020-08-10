@@ -21,5 +21,3 @@ modal.addEventListener("click", (e) => {
         original.classList.remove("open");
     }
 });
-
-Louison est beau 
